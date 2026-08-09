@@ -1,0 +1,8 @@
+*.bak
+*.log
+*.tmp
+/.vscode/
+/.idea/
+/dist/
+/tools/vendor-src/
+/tools/test-deps/

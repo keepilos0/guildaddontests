@@ -1,0 +1,10 @@
+## Interface: 50504, 38001, 20505, 11508, 11509
+## Title: Guild Hub Classic |cff8b7b64(Prototype)|r
+## Notes: Демонстрационный интерфейс будущего гильдейского аддона.
+## Notes-enUS: A visual prototype for a future guild addon.
+## Author: GuildAddon Prototype
+## Version: 0.1.0
+## SavedVariables: GuildHubClassicPrototypeDB
+
+Data.lua
+UI.lua
