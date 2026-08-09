@@ -1,0 +1,42 @@
+## Interface: 11508
+## Title: Guild Hub Classic
+## Notes: Guild coordination hub for World of Warcraft Classic Era.
+## Notes-ruRU: Гильдейский центр координации для World of Warcraft Classic Era.
+## Author: Guild Hub Classic
+## Version: 0.2.0-alpha.1
+## SavedVariables: GuildHubClassicDB
+## SavedVariablesPerCharacter: GuildHubClassicCharDB
+## X-Category: Guild
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\AceAddon-3.0\AceAddon-3.0.lua
+Libs\AceEvent-3.0\AceEvent-3.0.lua
+Libs\AceComm-3.0\ChatThrottleLib.lua
+Libs\AceComm-3.0\AceComm-3.0.lua
+Libs\LibSerialize\LibSerialize.lua
+Libs\LibDeflate\LibDeflate.lua
+
+Core\Bootstrap.lua
+Locales\enUS.lua
+Locales\ruRU.lua
+Locales\ukUA.lua
+Core\Localization.lua
+Core\GameAPI.lua
+Core\Database.lua
+Core\Permissions.lua
+Core\Validation.lua
+Core\Store.lua
+Core\Comm.lua
+Modules\Roster.lua
+Modules\Profiles.lua
+Modules\News.lua
+Modules\Requests.lua
+Modules\Groups.lua
+Modules\Tasks.lua
+Modules\Bank.lua
+Modules\Demo.lua
+UI\Widgets.lua
+UI\MainFrame.lua
+Core\Commands.lua
+Core\Addon.lua
